@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+joblib
+matplotlib
+gradio
+transformers
+torch
+sentencepiece
+youtube-transcript-api
+google-api-python-client
+python-dotenv
